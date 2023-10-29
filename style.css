@@ -1,0 +1,10 @@
+.header {
+  margin-top: 10px;
+  font-size: larger;
+  font-weight: 500;
+  text-decoration: overline;
+}
+
+.border {
+  padding-left: 10px;
+}
