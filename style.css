@@ -13,3 +13,14 @@
 .responsibilities {
   font-weight: 500;
 }
+
+.contactheading {
+  margin-top: 100px;
+  text-align: center;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.myicons {
+  margin-right: 10px;
+}
